@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langgraph
+chromadb
+# groqclient
+langchain_community
+pymupdf
+langchain-groq
+python-multipart
